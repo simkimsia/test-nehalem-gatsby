@@ -8,6 +8,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
+    "@nehalist/gatsby-theme-nehalem": "^1.0.3",
     "gatsby": "^2.13.73",
     "gatsby-theme-blog": "^1.0.2",
     "react": "^16.9.0",
